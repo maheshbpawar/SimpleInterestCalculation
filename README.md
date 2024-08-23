@@ -1,4 +1,4 @@
-# SimpleInterestCalculation
+# Simple Interest Calculation
 
 A calculator that calculates Simple Interest given Principal, Annual Rate Of Interest and Time PPeriod in Years.
 
