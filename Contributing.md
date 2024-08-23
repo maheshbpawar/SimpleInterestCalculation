@@ -1,4 +1,5 @@
-`**Contributing to Selenium**`
+## **Contributing to Selenium**
+
 This project welcomes contributions from everyone. There are a number of ways you can help:
 
 ## Bug Reports
@@ -10,4 +11,4 @@ If you find that Selenium is missing something, feel free to open an issue with 
 ## Code Contributions
 This project welcomes new contributors. Individuals making significant and valuable contributions over time can make this project more valuable.
 
-`## Thanks for contributing`
+## **Thanks for contributing**
